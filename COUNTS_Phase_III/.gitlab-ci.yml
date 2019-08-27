@@ -1,0 +1,20 @@
+image: maven:latest
+
+
+cache:
+  paths:
+    - .m2/repository/
+    - target/
+
+build:
+  stage: build
+  script:
+    - cd Server
+    - mvn $MAVEN_CLI_OPTS compile
+
+test:
+  stage: test
+  script:
+    - cd Server
+    - mvn $MAVEN_CLI_OPTS test
+

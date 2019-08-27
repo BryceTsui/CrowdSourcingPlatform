@@ -1,0 +1,3 @@
+﻿{"id":1,"username":"fjx_req","name":"fjx_req","info":"","avatar":"","password":"123456","email":"123@123.com","phone":"18851826150","role":"Requestor","missions":[],"points":0,"exp":0,"level":1,"rate":0.0,"city":"北京市","tags":["dog","cat","mouse"]}
+{"id":2,"username":"xgy1","name":"xgy1","info":"","avatar":"","password":"123456","email":"1275022549@qq.com","phone":"18851826216","role":"Worker","missions":[],"points":0,"exp":0,"level":1,"rate":0.0,"city":"长治市","tags":["mouse","horse"]}
+{"id":3,"username":"xgy2","name":"xgy2","info":"","avatar":"","password":"123456","email":"1275022549@qq.com","phone":"18851826216","role":"Worker","missions":[],"points":0,"exp":0,"level":1,"rate":0.0,"city":"通辽市","tags":["padding","dest"]}
