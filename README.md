@@ -21,3 +21,9 @@ Team Work of Course - CrowdSourcing Platform
     
     
     
+### Work Bench 
+![](https://github.com/BryceTsui/CrowdSourcingPlatform/blob/master/images/workbench.png)
+    
+    
+### Chart
+![](https://github.com/BryceTsui/CrowdSourcingPlatform/blob/master/images/chart.png)
