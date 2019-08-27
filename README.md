@@ -1,22 +1,22 @@
 # CrowdSourcingPlatform
 Team Work of Course - CrowdSourcing Platform
 
-* Main Page
+### Main Page
 ![](https://github.com/BryceTsui/CrowdSourcingPlatform/blob/master/images/main.png)
     
     
     
-* Home Page
+### Home Page
 ![](https://github.com/BryceTsui/CrowdSourcingPlatform/blob/master/images/homepage.png)
     
     
     
-* Market Page
+### Market Page
 ![](https://github.com/BryceTsui/CrowdSourcingPlatform/blob/master/images/market.png)
     
     
     
-* Task Page
+### Task Page
 ![](https://github.com/BryceTsui/CrowdSourcingPlatform/blob/master/images/task.png)
     
     
